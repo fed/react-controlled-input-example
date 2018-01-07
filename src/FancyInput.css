@@ -1,0 +1,29 @@
+.Fancy-Input {
+  align-items: center;
+  display: inline-flex;
+}
+
+.Fancy-Input__input {
+  color: #222;
+  font-size: 16px;
+  padding: 5px 10px;
+}
+
+.Fancy-Input__clear {
+  background-color: #999;
+  border-radius: 3px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 12px;
+  margin-left: 10px;
+  padding: 3px 7px;
+}
+
+.Fancy-Input__limit {
+  background-color: #056cc1;
+  border-radius: 3px;
+  color: #fff;
+  font-size: 12px;
+  margin-left: 10px;
+  padding: 3px 7px;
+}
